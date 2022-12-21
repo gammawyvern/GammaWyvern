@@ -4,7 +4,7 @@
 
 
 Check out some of my projects:
-- CIS-350 Equalizer: An equalizer built in .NET with NAudio 
+- CIS350-Equalizer: An equalizer built in .NET with NAudio 
 - CoreFisher: An auto fishing script for the game Core Keeper in Python
 - DataStructuresAssignments: Assortment of smaller projects focused on related data structures
 
