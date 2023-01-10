@@ -1,12 +1,19 @@
 - Hey, I’m Keagen Talsma. I'm doing what I do.
 - I know Java very well, and I'm efficient in Python as well.
 - I like playing video games and listening to music.
+- I'm working on learning Rust right now.
 
+Check out some of my code here:
+- [CIS350-Equalizer]: An equalizer built in .NET with NAudio 
+- [CoreFisher]: An auto fishing script for the game Core Keeper in Python
+- [DataStructures]: Assortment of smaller projects focused on data structures
+- [Algorithms]: Assortment of smaller projects focused on algorithms
 
-Check out some of my projects:
-- CIS350-Equalizer: An equalizer built in .NET with NAudio 
-- CoreFisher: An auto fishing script for the game Core Keeper in Python
-- DataStructuresAssignments: Assortment of smaller projects focused on related data structures
+[CIS350-Equalizer]: <https://github.com/Ronan-Kelley/CIS350-Equalizer>
+[CoreFisher]: <https://github.com/GammaWyvern/CoreFisher>
+[DataStructures]: <https://github.com/GammaWyvern/DataStructures>
+[Algorithms]: <https://github.com/GammaWyvern/Algorithms>
+
 
 <!---
 GammaWyvern/GammaWyvern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
