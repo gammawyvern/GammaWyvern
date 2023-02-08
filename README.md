@@ -6,6 +6,7 @@
 Check out some of my code here:
 - [CIS350-Equalizer]: An equalizer built in .NET with NAudio 
 - [CoreFisher]: An auto fishing script for the game Core Keeper in Python
+- [Engineering]: Digital JLS circuits including building up to an ALU
 - [DataStructures]: Assortment of smaller projects focused on data structures
 - [Algorithms]: Assortment of smaller projects focused on algorithms
 
@@ -13,7 +14,7 @@ Check out some of my code here:
 [CoreFisher]: <https://github.com/GammaWyvern/CoreFisher>
 [DataStructures]: <https://github.com/GammaWyvern/DataStructures>
 [Algorithms]: <https://github.com/GammaWyvern/Algorithms>
-
+[Engineering]: <https://github.com/GammaWyvern/Engineering>
 
 <!---
 GammaWyvern/GammaWyvern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
