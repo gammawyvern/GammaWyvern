@@ -1,6 +1,6 @@
 - Hey, I’m Keagen Talsma. I'm doing what I do.
 - I know Java very well, and I'm efficient in Python as well.
-- I like playing video games and listening to music.
+- I'm here to have a good time and learn some cool shit.
 
 Check out some of my code here:
 - [CIS350-Equalizer]: An equalizer built in .NET with NAudio 
