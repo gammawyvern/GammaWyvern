@@ -5,6 +5,7 @@ I'm learning Rust right now, so watch out for a new text editor project.
 Check out some of my code here:
 - [Pytris]: A Tetris clone built in Python
 - [CoreFisher]: An auto fishing script for the game Core Keeper in Python
+- [Interactive Content]: More interactive style code for the web through Github Pages 
 - [CIS350-Equalizer]: An equalizer built in .NET with NAudio 
 - [DataStructures]: Assortment of smaller projects focused on data structures
 - [Algorithms]: Assortment of smaller projects focused on algorithms
@@ -17,3 +18,4 @@ Good thing I'm working hard to change that.
 [CoreFisher]: <https://github.com/gammawyvern/CoreFisher>
 [DataStructures]: <https://github.com/gammawyvern/DataStructures>
 [Algorithms]: <https://github.com/gammawyvern/Algorithms>
+[Interactive Content]: <https://gammawyvern.github.io>
