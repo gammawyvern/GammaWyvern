@@ -6,7 +6,6 @@ Check out some of my code here:
 - [Pytris]: A Tetris clone built in Python
 - [CoreFisher]: An auto fishing script for the game Core Keeper in Python
 - [CIS350-Equalizer]: An equalizer built in .NET with NAudio 
-- [Engineering]: Digital JLS circuits including building up to an ALU
 - [DataStructures]: Assortment of smaller projects focused on data structures
 - [Algorithms]: Assortment of smaller projects focused on algorithms
 ---
@@ -18,4 +17,3 @@ Good thing I'm working hard to change that.
 [CoreFisher]: <https://github.com/gammawyvern/CoreFisher>
 [DataStructures]: <https://github.com/gammawyvern/DataStructures>
 [Algorithms]: <https://github.com/gammawyvern/Algorithms>
-[Engineering]: <https://github.com/gammawyvern/Engineering>
